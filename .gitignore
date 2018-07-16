@@ -1,5 +1,6 @@
 # Auth0 Deploy CLI
-.a0config
+config.json
+local/
 
 # Logs
 logs
