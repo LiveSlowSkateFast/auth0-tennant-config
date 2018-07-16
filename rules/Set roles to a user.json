@@ -1,0 +1,7 @@
+{
+	"enabled": true,
+	"id": "rul_QMdlAOS8tKO9ytdw",
+	"name": "Set roles to a user",
+	"order": 2,
+	"stage": "login_success"
+}
